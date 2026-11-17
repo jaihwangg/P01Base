@@ -31,6 +31,10 @@
     {
       "Name": "AudioCapture",
       "Enabled": true
+    },
+    {
+      "Name": "NDIMedia",
+      "Enabled": true
     }
   ]
 }
